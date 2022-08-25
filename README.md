@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KantWang&show_icons=true&theme={theme})](https://github.com/KantWang/github-readme-stats)
+## 개발하는 왕개미, KantWang 입니다 🐜
 
 <!--
 **KantWang/KantWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 2022.03.26 - 2022.08.11
+  - SW사관학교 정글
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -16,4 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dngp93)](https://solved.ac/dngp93/)
+
+### Backend Engineer
+- Skill
+</br><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/Node.js-6637CD?style=flat-square&logo=Node.js&logoColor=white"/></a>
+
+### Interest
+- Algorithm (2022.04.01 ~ )
+</br>[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dngp93)](https://solved.ac/dngp93/)
