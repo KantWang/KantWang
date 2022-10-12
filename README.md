@@ -1,4 +1,4 @@
-## 개발하는 왕개미, KantWang 입니다 🐜
+## hello
 
 <!--
 **KantWang/KantWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
